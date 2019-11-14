@@ -1,4 +1,3 @@
-# used by GitHub Actions
 name: .NET Core
 
 on: [push]
